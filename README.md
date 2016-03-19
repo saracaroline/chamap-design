@@ -10,14 +10,14 @@ In order to contribute to this project will need to have both a [GitHub](https:/
 ### Step 1: Setting Up Your Mapbox Studio Project
 1. Sign into Mapbox Studio. 
 2. Create a new blank style and name it ChaMap Master. 
-3. Download the ChaMap Master.json file from this repo to your computer. 
-4. Replace the ChaMap Master style by: a) clicking on the options icon to the right of the style name, b) selecting the "replace" option and c) navigating to where you downloaded the json file and clicking on replace.
+3. Download the chamap master.json file from this repo to your computer. 
+4. Replace the chamap master style by: a) clicking on the options icon to the right of the style name, b) selecting the "replace" option and c) navigating to where you downloaded the json file and clicking on replace.
 
 ### Step 2: Improve the Basemap
 The basemap for the open outdoor recreation map is designed using Mapbox studio. If you are new to this design tool Mapbox has [extensive documentation](https://www.mapbox.com/help/#mapbox-studio) to get you up designing in no time.
 
 ### Step 3: Suggest a Design Change to the Basemap
-1. Download your json design file from Mapbox and rename it ChaMap Master.json. 
+1. Download your json design file from Mapbox and rename it chamap master.json. 
 2. Sign into Github and fork this project. 
-3. Replace the ChaMap Master.json file with the file you downloaded from Mapbox. 
+3. Replace the chamap master.json file with the file you downloaded from Mapbox. 
 4. Send a merge request and provide details about the design improves you made to the basemap. 
